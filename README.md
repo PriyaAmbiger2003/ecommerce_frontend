@@ -102,7 +102,3 @@ Wishlist feature
 
 Pull requests are welcome!
 If you’d like to suggest changes, feel free to open an issue.
-
-📄 License
-
-This project is open-source and available under the MIT License.
